@@ -1,6 +1,6 @@
 name: Python CI/CD Pipeline
 
-# 1. Trigger: Define when the workflow should run
+# 1. Trigger: Define when the workflow should run.
 on:
   push:
     branches: [ main ]
